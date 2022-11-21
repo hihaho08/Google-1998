@@ -1,0 +1,52 @@
+body
+{
+    background-color: #FFFFFF;
+    font-family:'Times New Roman', Times, serif  font: size 16px;
+    
+}
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+.gogıl
+{
+    margin: 10px;
+}
+.aramabutonu
+{
+   background-color: #EEEEEE;
+}
+.search-box
+{
+   padding: 1px 2px;
+     inline-size: 280px;
+ }
+ input {
+    margin-left: 1px;
+ }
+ .aramayeri
+ {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+   
+ }
+ .kutu1
+ {
+    background-color: #7FE5D9;
+    padding: 0 21px;
+
+ }
+ .kutu2
+ {
+    font-size: small;
+    background-color: #72CCC2;
+ }
+ .kutu3
+ {
+    font-size: small;
+    background-color: #62B3AA;
+ }
+
+ .wrapper {
+    margin: 0 75px
+ }
